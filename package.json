@@ -1,0 +1,24 @@
+{
+	"name": "private-server-bots",
+	"version": "1.0.0",
+	"description": "Repo containing my personal bots for Discord and Telegram",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "node src/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Waaiez/private-server-bots.git"
+	},
+	"keywords": [
+		"Discord",
+		"Telegram",
+		"Bot"
+	],
+	"author": "Waaiez Kinnear",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Waaiez/private-server-bots/issues"
+	},
+	"homepage": "https://github.com/Waaiez/private-server-bots#readme"
+}
