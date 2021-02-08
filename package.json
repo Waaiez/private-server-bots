@@ -20,5 +20,17 @@
 	"bugs": {
 		"url": "https://github.com/Waaiez/private-server-bots/issues"
 	},
-	"homepage": "https://github.com/Waaiez/private-server-bots#readme"
+	"homepage": "https://github.com/Waaiez/private-server-bots#readme",
+	"devDependencies": {
+		"eslint": "^7.19.0",
+		"nodemon": "^2.0.7"
+	},
+	"dependencies": {
+		"bluebird": "^3.7.2",
+		"discord.js": "^12.5.1",
+		"dotenv": "^8.2.0",
+		"express": "^4.17.1",
+		"node-fetch": "^2.6.1",
+		"rss-feed-emitter": "^3.2.2"
+	}
 }
